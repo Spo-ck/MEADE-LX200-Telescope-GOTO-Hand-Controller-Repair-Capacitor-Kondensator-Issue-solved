@@ -7,6 +7,8 @@ This Project will solve the capacitor issue of the MEADE LX200 controller in 2 s
 1. First the broken capacitor will be exchanged
 2. In a second step, a new keyboard with a 3D-Printed case will be made.
 
+![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/NewOldCase.jpg?raw=true)
+
 # LX200 Schematics and Information
 
 * [LX200 Classics](http://www.lx200classic.com/)
