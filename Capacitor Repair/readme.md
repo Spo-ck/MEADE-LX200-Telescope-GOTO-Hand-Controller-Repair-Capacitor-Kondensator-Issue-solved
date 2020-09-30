@@ -1,5 +1,5 @@
 # Exchanging the capacitor
-![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/Capacitor%20Repair/LX200%20Power%20Supply%20Schemtic.png?raw=true .png)
+![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/Capacitor%20Repair/LX200%20Power%20Supply%20Schemtic.png?raw=true)
 ## Parts
 * [0.68 μF tantalum capacitor](https://www.conrad.de/de/p/tancap-ca42-684m035ab-tantal-kondensator-tht-2-5-mm-0-68-f-35-v-20-b-x-h-4-mm-x-14-mm-1-st-1578634.html)
 * [Voltage Reference MC7805CT](https://www.conrad.de/de/p/on-semiconductor-mc7805ct-spannungsregler-linear-typ78-to-220ab-positiv-fest-5-v-1-a-175030.html?searchType=SearchRedirect)
