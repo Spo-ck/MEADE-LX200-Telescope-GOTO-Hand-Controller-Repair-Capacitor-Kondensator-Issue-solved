@@ -23,7 +23,7 @@ In the first attempt I fried to melt the insulation with a soldering iron, and s
 This issue was solved with scratching the insulation from one side of the cables. Then silver conductive varnish was applied above the scratches. After letting the varnish dry for one night, it was possible so measure a connection. Sadly, connections glued with varnish are physically not very stable. Because of this, additional cables glued to the flat ribbon cable came off very quickly in every attempt.
 
 ![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/Cable%20Repair/glued%20cable.jpg)
-***gluing cables with conducting varnish***
+***glueing cables with conducting varnish***
 
 As a result it can the sad that it possible to reestablish a connection with conductive varnish, but these connections are not stable enough to be used. Because of this, the next solution was developed.
 
