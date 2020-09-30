@@ -155,6 +155,7 @@ Besides the LEDs for the buttons backlight, there are also 5 LEDs for the mainbo
 ## Front Case and Buttons
 
 ![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/NewCase.jpg?raw=true)
+***new case***
 
 ### Parts
 * [PLA 1,75 mm Black](https://owl-filament.de/pla-1-75mm-Schwarz-RAL-9005-337-626.html)
@@ -177,7 +178,11 @@ The longer Case-Tubes are screwed to the case using M3x10mm countersunk screws, 
 After the case and the buttons are printed, and the tubes are screwed, the PCD can be screwed to the front case, and connected to the main board. The Main Board is then screwed to the front case, and the back case is screwed to the front case in the last step.
 
 ![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/Rebuilding.jpg?raw=true)
+***rebuilding case***
 ![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/NewCaseInside.jpg?raw=true)
+***new case inside***
 ![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/NewCaseFront.jpg?raw=true)
+***new front case***
 ![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/NewCaseSide.jpg?raw=true)
+***new case side***
 ![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/NewOldCase.jpg?raw=true)
