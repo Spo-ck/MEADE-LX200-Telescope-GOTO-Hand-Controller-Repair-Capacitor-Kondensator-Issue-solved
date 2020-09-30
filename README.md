@@ -47,7 +47,7 @@ Unsoldering the broken capacitor worked fine at 300°C with my remote. I used a 
 
 Because of the PCB's dimensions, and because the PCB has two layers, I recommend to check on both layers (front and back) if the pads have been soldered to the capacitor, or to separately solder the pins of the capacitor on the pads of the front and the back side.
 
-![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/Capacitor%20Repair/new_capacitor.jpg?raw=true)
+![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/Capacitor%20Repair/new_capacitor.jpg?raw=true "abc")
 
 ---
 
