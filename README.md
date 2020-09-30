@@ -1,4 +1,5 @@
-# MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved
+# MEADE LX200 Telescope GOTO Hand Controller Repair / Rebuilt
+# Capacitor / Kondensator Issue solved
 
 The LX200 made by MEADE is a common hand controller for advanced telescopes. However, older version of this remote often have a problem with a tantalum capacitor in the power supply unit: The capacitors like to catch fire after years in operation. When they do, it is also not unlikely that the fire also destroys cable in the remote.
 
