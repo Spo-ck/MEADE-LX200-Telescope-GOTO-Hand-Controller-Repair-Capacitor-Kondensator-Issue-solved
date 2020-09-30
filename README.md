@@ -67,8 +67,8 @@ As a result it can the sad that it possible to reestablish a connection with con
 
 Because it turned out not to be possible to fix the burned cables, and because the buttons are integrated in this cable on my hand controller, it was not possible to fix this. As a result, I started to rebuilt the full front part ob my controller. Since the front keyboard is connected to the main board with a 20-Pin cable, I redesigned a new pcb keyboard first. The I also redesigned the front part of my controller using CAD and 3D-Printing. The Keyboard was then implemented in the 3D-printed case, and connected to the main board.
 
-# Keyboard
-## Parts
+## Keyboard
+### Parts
 * [LED 3mm Rot](https://www.conrad.de/de/p/tru-components-1577379-led-bedrahtet-rot-rund-3-mm-125-mcd-60-20-ma-1577379.html)
 * [19 x Micro Switches](https://www.shop-014.de/michawi-p5362h110s463-micro-Taster-MT-04-E.html)
 * [PCB](https://www.reichelt.de/punkt-streifenrasterplati-hartpapier-160x100mm-h25ps160-p23953.html?&trstct=pol_5&nbc=1)
@@ -78,16 +78,16 @@ Because it turned out not to be possible to fix the burned cables, and because t
 * Generic cables (Connector cable to mainboard)
 * Generic Lead Solder
 
-## Reference Manuel 
+### Reference Manuel 
 * [LX200 Schematic](http://www.lx200classic.com/files/LX200%20Hand%20Controller.pdf)
 
-## Tools
+### Tools
 * [Soldering Station](https://www.conrad.de/de/p/basetech-zd-931-loetstation-digital-48-w-150-bis-450-c-1460697.html)
 * [Solder Pump](https://www.conrad.de/de/p/toolcraft-lee-192-entloetsaugpumpe-antistatisch-2196503.html)
 * [Third Hand](https://www.conrad.de/de/p/inline-dritte-hand-mit-lupe-800404647.html)
 * [Soldering Tools](https://www.conrad.de/de/p/toolcraft-lns-151-platinenbesteck-6teilig-2182257.html)
 
-## Pinmapping
+### Pinmapping
 
 Mapping of the different keyboard switches to the pins of the 20 pin header:
 
@@ -112,7 +112,7 @@ Mapping of the different keyboard switches to the pins of the 20 pin header:
 19. Next
 20. GND
 
-## How to
+### How to
 
 Rebuilding the keyboard is pretty simple. I took the mapping from the LX200 reference schematic and rebuilt it using standard parts according to schematic I uploaded here.
 The 19 switches have to be soldered on a standard pcb with a distance of 13mm first. After that, the ground pins of all switches are connected together. 
@@ -127,19 +127,19 @@ In oder to remove the old 20pin connector of the old keyboard, soldering tools a
 
 In a last step, I added LEDs between the buttons. According to the original schematic, 2 LEDs (LED9 & LED10) are connected in series directly to the 5V reference as a backlight for the buttons. As it can be hard to only use 2 LEDs for 19 buttons, I increased the number of LEDs. It is recommendable to connect the LEDs in two subsystems that contain an equal number of LEDs. The LEDs of each subsystem are connected in parallel. In the next step, LED 9 and LED 10 are unsoldered, and Subsystem 1 is then connected to the Pads of LED 9, and Subsystem 2 is connected to the Pads of LED 10. Please mind that LEDs have to be connected in the correct way.
 
-# Front Case and Buttons
+## Front Case and Buttons
 
-## Parts
+### Parts
 * [PLA 1,75 mm Black](https://owl-filament.de/pla-1-75mm-Schwarz-RAL-9005-337-626.html)
 * [PLA 1,75 mm Transparent](https://owl-filament.de)
 * [8 x M3x10 Countersunk Screws](https://www.conrad.de/de/p/senkkopfschrauben-senkkopf-m3x10-edelstahl-a2-70-din965-kreuzschlitz-805859932.html)
 * [6 x M3x10 Countersunk Screws](https://www.conrad.de/de/p/senkkopfschrauben-senkkopf-m3x20-edelstahl-a2-70-din965-kreuzschlitz-805859933.html)
 * [6 x M3 bolt nuts](https://www.conrad.de/de/p/toolcraft-223395-sicherungsmuttern-m3-din-985-stahl-verzinkt-10-st-223395.html)
 
-## Tools
+### Tools
 * Generic 3D-Printer (Creality Ender 3 worked fine)
 
-## How to
+### How to
 The main goal repair and reengineer the LX200 controller in a way that the new controller looks exactly like the old one. For this I designed a new case with CAD, that fits to the back case of the LX200 and in which the LX200 main board and the new keyboard fit perfectly. 
 Please note that in order to make the part more robust, the small tubes that connect the front to the back case and that hold the main boards have to be printed out separately, and will then be screwed to the case.
 
