@@ -140,6 +140,8 @@ Besides the LEDs for the buttons backlight, there are also 5 LEDs for the mainbo
 
 ## Front Case and Buttons
 
+![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/NewCase.jpg?raw=true)
+
 ### Parts
 * [PLA 1,75 mm Black](https://owl-filament.de/pla-1-75mm-Schwarz-RAL-9005-337-626.html)
 * [PLA 1,75 mm Transparent](https://owl-filament.de)
