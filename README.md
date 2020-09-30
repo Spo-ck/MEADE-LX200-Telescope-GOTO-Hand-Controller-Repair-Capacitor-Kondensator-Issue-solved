@@ -203,3 +203,7 @@ After the case and the buttons are printed, and the tubes are screwed, the PCD c
 ![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/NewCaseSide.jpg?raw=true)
 ***new case side***
 ![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/NewOldCase.jpg?raw=true)
+
+# Video of the first test
+[![IMAGE ALT TEXT HERE](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/Working%20LX200/first%20test.png?raw=true)](https://youtu.be/4L_s5pQsbgc)
+
