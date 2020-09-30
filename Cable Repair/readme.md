@@ -1,6 +1,6 @@
 # Reestablishing a connection between the PCB and the keyboard with silver solder varnish
 
-![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/Cable%20Repair/Burned%20Wires.png?raw=true abc)
+![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/Cable%20Repair/Burned%20Wires.png?raw=true "abc")
 ## Parts
 * [Silver Conductive Vanish](https://www.amazon.de/YoungerY-leitfähiger-Kleber-anhaftender-Elektronik-Leiterplatte-PWB-Reparatur/dp/B07VV9SPXB/ref=sr_1_3_sspa?__mk_de_DE=ÅMÅŽÕÑ&dchild=1&keywords=silberleitlack&qid=1601325026&sr=8-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFEMkFST1YwQzFOWDEmZW5jcnlwdGVkSWQ9QTAwNzgzMzMxWVRXSURTV0FLMVImZW5jcnlwdGVkQWRJZD1BMDA4MTI3NzNFMVNVWVpDRTNUN0smd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
 * [Thin Cables](https://www.conrad.de/de/p/lapp-49900276-klingeldraht-1-x-0-80-mm-weiss-braun-meterware-607805.html)
