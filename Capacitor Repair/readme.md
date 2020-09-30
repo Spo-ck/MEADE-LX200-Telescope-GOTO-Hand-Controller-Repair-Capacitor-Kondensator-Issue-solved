@@ -1,5 +1,7 @@
 # Exchanging the capacitor
 
+![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/Capacitor%20Repair/burned%20capacitor.jpg?raw=true)
+
 ## Parts
 * [0.68 μF tantalum capacitor](https://www.conrad.de/de/p/tancap-ca42-684m035ab-tantal-kondensator-tht-2-5-mm-0-68-f-35-v-20-b-x-h-4-mm-x-14-mm-1-st-1578634.html)
 * [Voltage Reference MC7805CT](https://www.conrad.de/de/p/on-semiconductor-mc7805ct-spannungsregler-linear-typ78-to-220ab-positiv-fest-5-v-1-a-175030.html?searchType=SearchRedirect)
@@ -24,6 +26,8 @@ The power supply of the remote is implemented with the standard 5V voltage refer
 [Manual Voltage Reference MC7805CT](https://asset.conrad.com/media10/add/160267/c1/-/en/000175030DS01/datenblatt-175030-on-semiconductor-mc7805ct-spannungsregler-linear-typ78-to-220ab-positiv-fest-5-v-1-a.pdf)
 
 At this reference voltage, Ground is implemented on the middle pin (2), the input anode is implemented on the left pin (1), and the output anode is implemented on the right pin (3). 
-Unsoldering the broken capacitor worked fine at 300°C with my remote. I sued a solder pump, and if you have problem with getting the solder out of the PCD, it can be useful to add some lead solder. To get the capacitor out of the pcb is also used standard soldering equipment.
+Unsoldering the broken capacitor worked fine at 300°C with my remote. I used a solder pump, and if you have problem with getting the solder out of the PCD, it can be useful to add some lead solder. To get the capacitor out of the pcb is also used standard soldering equipment.
 
 Because of the PCB's dimensions, and because the PCB has two layers, I recommend to check on both layers (front and back) if the pads have been soldered to the capacitor, or to separately solder the pins of the capacitor on the pads of the front and the back side.
+
+![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/Capacitor%20Repair/new_capacitor.jpg?raw=true)
