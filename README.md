@@ -161,3 +161,9 @@ The first step is to download the case and button files. I used the CURA slicer 
 The longer Case-Tubes are screwed to the case using M3x10mm countersunk screws, and the smaller PCB tubes are screwed to the case using longer M3x20mm countersunk screws.
 
 After the case and the buttons are printed, and the tubes are screwed, the PCD can be screwed to the front case, and connected to the main board. The Main Board is then screwed to the front case, and the back case is screwed to the front case in the last step.
+
+![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/Rebuilding.jpg?raw=true)
+![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/NewCaseInside.jpg?raw=true)
+![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/NewCaseFront.jpg?raw=true)
+![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/NewCaseSide.jpg?raw=true)
+![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/NewOldCase.jpg?raw=true)
