@@ -18,6 +18,7 @@ This Project will solve the capacitor issue of the MEADE LX200 controller in 2 s
 # Exchanging the capacitor
 
 ![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/Capacitor%20Repair/burned%20capacitor.jpg?raw=true)
+***burned capacitor***
 
 ## Parts
 * [0.68 μF tantalum capacitor](https://www.conrad.de/de/p/tancap-ca42-684m035ab-tantal-kondensator-tht-2-5-mm-0-68-f-35-v-20-b-x-h-4-mm-x-14-mm-1-st-1578634.html)
@@ -48,6 +49,7 @@ Unsoldering the broken capacitor worked fine at 300°C with my remote. I used a 
 Because of the PCB's dimensions, and because the PCB has two layers, I recommend to check on both layers (front and back) if the pads have been soldered to the capacitor, or to separately solder the pins of the capacitor on the pads of the front and the back side.
 
 ![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/Capacitor%20Repair/new_capacitor.jpg?raw=true)
+***new capacitor***
 
 ---
 
