@@ -47,7 +47,7 @@ Mapping of the different keyboard switches to the pins of the 20 pin header:
 19. Next
 20. GND
 
-![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/Keyboard%20PCB/Schematics/LX200%20LED%20Schemtic.png?raw=true)
+![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/Keyboard%20PCB/Schematics/LX200%2020pin%20header.png?raw=true)
 [LX200 Schematic](http://www.lx200classic.com/files/LX200%20Hand%20Controller.pdf)
 
 ### How to
