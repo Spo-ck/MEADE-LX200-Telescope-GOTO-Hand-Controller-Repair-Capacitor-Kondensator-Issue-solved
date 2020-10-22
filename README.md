@@ -159,19 +159,25 @@ In order to connect the PCB directly to the main board, I crimped dupont / jumpe
 
 In oder to remove the old 20pin connector of the old keyboard, soldering tools are very helpful. It is also very handy to remove some of the claps of the 20 pin header. 
 
-In a last step, I added LEDs between the buttons. According to the original schematic, 2 LEDs (LED9 & LED10) are connected in series directly to the 5V reference as a backlight for the buttons. As it can be hard to only use 2 LEDs for 19 buttons, I increased the number of LEDs. It is recommendable to connect the LEDs in two subsystems that contain an equal number of LEDs. The LEDs of each subsystem are connected in parallel. In the next step, LED 9 and LED 10 are unsoldered, and Subsystem 1 is then connected to the Pads of LED 9, and Subsystem 2 is connected to the Pads of LED 10. Please mind that LEDs have to be connected in the correct way.
+In a last step, I added LEDs between the buttons. According to the original schematic, 2 LEDs (LED9 & LED10) are connected in series directly to the 5V reference as a backlight for the buttons. Here, I found to options for the backlight:
+Firth I soldered 2 3mm LEDs at the position of LED9 and LED10 on the PCB and tilted them 45°, so that they shine through all buttons. On the Mainboard I replaced the two LEDs with 2.54mm pins, and used dupond connectors and wired to connect the two new LEDs to the Mainboard.
+As it can be hard to only use 2 LEDs for 19 buttons, I also increased the number of LEDs for a test. It is recommendable to connect the LEDs in two subsystems that contain an equal number of LEDs. The LEDs of each subsystem are connected in parallel. In the next step, LED 9 and LED 10 are unsoldered, and Subsystem 1 is then connected to the Pads of LED 9, and Subsystem 2 is connected to the Pads of LED 10. Please mind that LEDs have to be connected in the correct direction. 
+In the test, it turned out that the first option with 2 tilted LEDs does not enlighten the buttons sufficient, and that the second option enlightens the buttons much to much. I would recommend to use a number of in parallel connected tilted LEDs for this. As a rule of I would recommend 2 tilted LEDs for 6 to 9 Buttons.
 
 ![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/Keyboard%20PCB/Schematics/LX200%20LED%20Schemtic.png?raw=true)
 [LX200 Schematic](http://www.lx200classic.com/files/LX200%20Hand%20Controller.pdf)
 
 ![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/Keyboard%20PCB/Schematics/LED%20Shematic.png?raw=true)
+
 ***led schmatic***
 
-Besides the LEDs for the buttons backlight, there are also 5 LEDs for the mainboard to indicate its current mode. The holes that I designed in the front case will perfectly fit to these LEDs, so that you can see them through the holes after installing the mainboard into the case. For a better vision, also caps for the LEDs can be designed in a way that they insulate one LEDs light from the LEDs next to it. Another ides is to unsolder the LEDs and replace them. The holes are made in a way that the LEDs mentioned above will perfectly fit. In only thing you need to do is to sonder wires and maybe dupond connectors between the new LEDs and the Main board.
+Besides the LEDs for the buttons backlight, there are also 5 LEDs for the mainboard to indicate its current mode. The holes that I designed in the front case will perfectly fit to these LEDs, so that you can see them through the holes after installing the mainboard into the case. For a better vision, also caps for the LEDs are designed (see LEDadapter) be designed in a way that they insulate one LEDs light from the LEDs next to it. Another ides is to unsolder the LEDs and replace them. The holes are made in a way that the LEDs mentioned above will perfectly fit. The only thing you need to do is to solder wires and maybe dupond connectors between the new LEDs and the Main board. 
+
 
 ## Front Case and Buttons
 
 ![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/NewCase.jpg?raw=true)
+
 ***new case***
 
 ### Parts
@@ -192,7 +198,7 @@ The first step is to download the case and button files. I used the CURA slicer 
 
 The longer Case-Tubes are screwed to the case using M3x10mm countersunk screws, and the smaller PCB tubes are screwed to the case using longer M3x20mm countersunk screws.
 
-After the case and the buttons are printed, and the tubes are screwed, the PCD can be screwed to the front case, and connected to the main board. The Main Board is then screwed to the front case, and the back case is screwed to the front case in the last step.
+After the case and the buttons are printed, and the tubes are screwed, the PCD can be screwed to the front case, and connected to the main board using generic M3x10 screws. Because this case is a bit bigger then the original, a Displayadapter was developed, that fits the new case to the display on the mainboard. The holes in the case for the four status LEDs have been designed for standard 3mm LEDs. However, there is no need to replace the status LEDs on the Mainboard, because the holes are at the position of the original LEDs. If you really want to, you can replace the LEDs, but it is much simpler to use the LEDadapter that fits the Built in LEDs to the front case. The Main Board is then screwed to the front case. Please note that the Displayadapter and the LEDadapters hold without screwing and glueing. It is sufficient to screw the mainboard to the new frontcase. After that, the backcase can be screwed to the front case in the last step.
 
 ![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/Rebuilding.jpg?raw=true)
 ***rebuilding case***
@@ -206,4 +212,3 @@ After the case and the buttons are printed, and the tubes are screwed, the PCD c
 
 # Video of the first test
 [![IMAGE ALT TEXT HERE](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/Working%20LX200/first%20test.png?raw=true)](https://youtu.be/4L_s5pQsbgc)
-
