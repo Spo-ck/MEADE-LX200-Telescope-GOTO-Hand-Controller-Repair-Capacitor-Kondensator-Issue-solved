@@ -211,5 +211,23 @@ After the case and the buttons are printed, and the tubes are screwed, the PCD c
 ***new case side***
 ![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/NewOldCase.jpg?raw=true)
 
+## Backlight Buttons
+
+![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/Backlight%20Buttons.jpeg?raw=true)
+
+### Parts
+* PLA Filament (Black and Transparent)
+* [Instant Glue](https://www.amazon.de/Pattex-Sekundenkleber-Perfect-Stück-PSPP3/dp/B01I3IMSQ4/ref=sr_1_54?__mk_de_DE=ÅMÅŽÕÑ&crid=34V7IOIG7D9UU&keywords=sekundenkleber&qid=1653581974&sprefix=sekundenkleber%2Caps%2C117&sr=8-54)
+
+
+### Tools
+* Generic 3D-Printer (Creality Ender 3 worked fine)
+* [Fine tweezers or soldering Tools](https://www.amazon.de/MOKIU-Anti-Statik-Edelstahl-Antistatisch-Schmuckherstellung-Mitesser-Entferner/dp/B07MM43MLF/ref=sr_1_1_sspa?__mk_de_DE=ÅMÅŽÕÑ&crid=32PLTC6ZTVM49&keywords=lötpinzette&qid=1653582042&sprefix=lot+pinzett%2Caps%2C165&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSEVJRDZDS0VSR0pGJmVuY3J5cHRlZElkPUEwNzYxMDIxMzEzS0FWTTZZNU5JSSZlbmNyeXB0ZWRBZElkPUEwMjA0Nzk2M0U3U0RVSlUzTDBSSCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
+
+### How to
+
+In order to get a good visibility of the buttons, we changed them in a sencond version. The first ones were printed out directly, with engraved marks on them. This time, a standard button without engravings wea printed with transparent filament multiple times. In a second step, black plates were printed with the engravings. To print the plates, the original engraved buttons were loaded into a slicer. In order to only print the engraves plate and not the complete button, the buttons were then moved in the slicer on the Z-Axis below the printing bed, until only the top 1mm was above the printing bed. This way, the plates can be printed out without redesigning them from scratch. These plates were then glued onto the transparent buttons, to deliver a good contrast with the backlighted pcd. For the glueing, some soltering tools and tweezers do a good job in positioning the plates.
+
+
 # Video of the first test
 [![IMAGE ALT TEXT HERE](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/Working%20LX200/first%20test.png?raw=true)](https://youtu.be/4L_s5pQsbgc)
