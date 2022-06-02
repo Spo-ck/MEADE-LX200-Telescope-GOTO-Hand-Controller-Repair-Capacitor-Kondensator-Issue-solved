@@ -7,6 +7,10 @@ This Project will solve the capacitor issue of the MEADE LX200 controller in 2 s
 1. First the broken capacitor will be exchanged
 2. In a second step, a new keyboard with a 3D-Printed case will be made.
 
+![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/IMG_9938.jpg?raw=true)
+
+![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/CCTOE2561.jpg?raw=true)
+
 ![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/NewOldCase.jpg?raw=true)
 
 # LX200 Schematics and Information
@@ -214,6 +218,10 @@ After the case and the buttons are printed, and the tubes are screwed, the PCD c
 ## Backlight Buttons
 
 ![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/Backlight%20Buttons.jpeg?raw=true)
+
+![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/IMG_9938.jpg?raw=true)
+
+![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/CCTOE2561.jpg?raw=true)
 
 ### Parts
 * PLA Filament (Black and Transparent)
