@@ -9,7 +9,7 @@ This Project will solve the capacitor issue of the MEADE LX200 controller in 2 s
 
 In the beginning we made this project freely available in order to contribute to the astronomy community, instead of making money out of the implication from a bad electronics design made by MEADE. However, from time to time people tried to make (a lot of) money with my design by buying broken remotes and repairing them with my design. Some were even not skilled enough for that job, got mad, and got into argument with us. Because of this, we took the print files offline. 
 
-If you are in trouble with your remote, feel free to drop me a mail, and we'll find a way to help you: jan@zuenkler.eu
+If you are in trouble with your remote, feel free to drop me a mail, and we'll find a way to help you: jhz@mail.uni-paderborn.de
 
 ![image](https://github.com/Spo-ck/MEADE-LX200-Telescope-GOTO-Hand-Controller-Repair-Capacitor-Kondensator-Issue-solved/blob/master/3D-Printing/Pictures/IMG_9938.jpg?raw=true)
 
